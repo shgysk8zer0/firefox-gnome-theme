@@ -19,10 +19,10 @@
 /*@import "theme/matching-autocomplete-width.css"; /**/
 
 /* Use GNOME stack icons */
-/*@import "theme/gnome-icons.css"; /**/
+@import "theme/gnome-icons.css"; /**/
 
 /* Make all tab icons look kinda like symbolic icons */
-/*@import "theme/symbolic-tab-icons.css"; /**/
+@import "theme/symbolic-tab-icons.css"; /**/
 
 /* Import a custom stylesheet
  * Everything you add in your customChrome.css file (it doesn't exist by
